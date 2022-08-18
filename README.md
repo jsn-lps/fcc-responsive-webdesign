@@ -1,8 +1,8 @@
-# <title> FCC Responsive Web Design Solutions </title>
+# &lt;title&gt; FCC Responsive Web Design Solutions &lt;/title&gt;
 
-<h1>A very barebones answer sheet for freeCodeCamp's responsive webdesign course</h1>
-<meta charset="EZ-answers">
-<link rel="produtionsheet" href="github.repo">
+&lt;h1&gt;A very barebones answer sheet for freeCodeCamp's responsive webdesign course&lt;/h1&gt;
+&lt;meta charset="EZ-answers"&gt;
+&lt;link rel="produtionsheet" href="github.repo"&gt;
 
 
 
